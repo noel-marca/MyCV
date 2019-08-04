@@ -1,0 +1,36 @@
+{
+    "arrayOfObjects": [
+        {
+            "identificador": "Teléfono",
+            "valor": "(594) 958 0388"
+        },
+        {
+            "identificador": "Celular",
+            "valor": "55 16 26 16 17"
+        },
+        {
+            "identificador": "Recados Cel.",
+            "valor": "55 38 10 96 92"
+        },
+        {
+            "identificador": "E-mail",
+            "valor": "noel.marca@gmail.com"
+        },
+        {
+            "identificador": "Dirección",
+            "valor": "Tejocote 12 Pueblo. Santa María Acolman Estado de México CP. 55878"
+        },
+        {
+            "identificador": "Estado civil",
+            "valor": "Casado"
+        },
+        {
+            "identificador": "Fecha de Nacimiento",
+            "valor": "19 de noviembre de 1983"
+        },
+        {
+            "identificador": "Objetivo Personal",
+            "valor": "Me considero una persona profesional proactiva, motivada y motivadora, comprometida con la organización y con las personas, y con muchas ganas de aportar valor a su compañía, poner en práctica los conocimientos aprendidos en mi formación académica así como estar al servicio empresarial y social de la comunidad adquiriendo nuevos conocimientos; a lo largo de estos años he desarrollado ampliamente las capacidades de análisis de problemas para darles una solución optima, comunicación, asertividad, además de un buen manejo del trabajo bajo situaciones de estrés."
+        }
+    ]
+}

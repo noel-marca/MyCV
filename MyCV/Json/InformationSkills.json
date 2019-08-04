@@ -1,0 +1,148 @@
+{
+    "arrayOfObjects": [
+        {
+            "identificador": "Habilidad",
+            "valor": "Cobol"
+        },
+        {
+            "identificador": "Años",
+            "valor": "6 años"
+        },
+        {
+            "identificador": "Nivel",
+            "valor": "Avanzado"
+        },
+        {
+            "identificador": "Habilidad",
+            "valor": "Cics"
+        },
+        {
+            "identificador": "Años",
+            "valor": "3 años"
+        },
+        {
+            "identificador": "Nivel",
+            "valor": "Intermedio"
+        },
+        {
+            "identificador": "Habilidad",
+            "valor": "Objective C"
+        },
+        {
+            "identificador": "Años",
+            "valor": "3 años"
+        },
+        {
+            "identificador": "Nivel",
+            "valor": "Intermedio"
+        },
+        {
+            "identificador": "Habilidad",
+            "valor": "Swift 4+"
+        },
+        {
+            "identificador": "Años",
+            "valor": "2 años"
+        },
+        {
+            "identificador": "Nivel",
+            "valor": "Intermedio"
+        },
+        {
+            "identificador": "Habilidad",
+            "valor": "Firebase"
+        },
+        {
+            "identificador": "Años",
+            "valor": "2 años"
+        },
+        {
+            "identificador": "Nivel",
+            "valor": "Intermedio"
+        },
+        {
+            "identificador": "Habilidad",
+            "valor": "Push Notifications"
+        },
+        {
+            "identificador": "Años",
+            "valor": "2 años"
+        },
+        {
+            "identificador": "Nivel",
+            "valor": "Intermedio"
+        },
+        {
+            "identificador": "Habilidad",
+            "valor": "Patrón de Diseño "
+        },
+        {
+            "identificador": "Años",
+            "valor": "3 años"
+        },
+        {
+            "identificador": "Nivel",
+            "valor": "Intermedio"
+        },
+        {
+            "identificador": "Habilidad",
+            "valor": "CocoaPods"
+        },
+        {
+            "identificador": "Años",
+            "valor": "1 años"
+        },
+        {
+            "identificador": "Nivel",
+            "valor": "Básico"
+        },
+        {
+            "identificador": "Habilidad",
+            "valor": "Servicios REST"
+        },
+        {
+            "identificador": "Años",
+            "valor": "3 años"
+        },
+        {
+            "identificador": "Nivel",
+            "valor": "Intermedio"
+        },
+        {
+            "identificador": "Habilidad",
+            "valor": "Diseño de Vistas"
+        },
+        {
+            "identificador": "Años",
+            "valor": "3 años"
+        },
+        {
+            "identificador": "Nivel",
+            "valor": "Intermedio"
+        },
+        {
+            "identificador": "Habilidad",
+            "valor": "Git o Bitbucket"
+        },
+        {
+            "identificador": "Años",
+            "valor": "3 años"
+        },
+        {
+            "identificador": "Nivel",
+            "valor": "Intermedio"
+        },
+        {
+            "identificador": "Habilidad",
+            "valor": "Android"
+        },
+        {
+            "identificador": "Años",
+            "valor": "2 años"
+        },
+        {
+            "identificador": "Nivel",
+            "valor": "Intermedio"
+        }
+    ]
+}

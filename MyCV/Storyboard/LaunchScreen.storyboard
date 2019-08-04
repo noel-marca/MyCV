@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="01J-lp-oVM">
+    <device id="retina5_9" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14490.49"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="EHf-IW-A2E">
+            <objects>
+                <viewController id="01J-lp-oVM" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="812"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="certificaciones" translatesAutoresizingMaskIntoConstraints="NO" id="may-qQ-5PN">
+                                <rect key="frame" x="260" y="194" width="75" height="75"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="75" id="FWe-xm-SOG"/>
+                                    <constraint firstAttribute="height" constant="75" id="cvc-8b-Vh6"/>
+                                </constraints>
+                            </imageView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="experiencia" translatesAutoresizingMaskIntoConstraints="NO" id="I1D-P2-v3w">
+                                <rect key="frame" x="40" y="553" width="75" height="75"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="75" id="msz-3Q-vjH"/>
+                                    <constraint firstAttribute="height" constant="75" id="ytm-KD-Ij8"/>
+                                </constraints>
+                            </imageView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="persona" translatesAutoresizingMaskIntoConstraints="NO" id="xki-IV-VKP">
+                                <rect key="frame" x="150" y="663" width="75" height="75"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="75" id="5yE-Oi-zV6"/>
+                                    <constraint firstAttribute="height" constant="75" id="jAl-7U-d53"/>
+                                </constraints>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Mi CV" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="fzp-DE-6G2">
+                                <rect key="frame" x="129.66666666666666" y="380" width="116" height="52"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="116" id="TJA-yz-WpE"/>
+                                    <constraint firstAttribute="height" constant="52" id="eeR-Xq-q7X"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="43"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="habilidades" translatesAutoresizingMaskIntoConstraints="NO" id="w3U-ue-u5j">
+                                <rect key="frame" x="150" y="84" width="75" height="75"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="75" id="S4Y-dM-3va"/>
+                                    <constraint firstAttribute="height" constant="75" id="kuq-nJ-cGO"/>
+                                </constraints>
+                            </imageView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="escuela" translatesAutoresizingMaskIntoConstraints="NO" id="3kh-Pq-Jcj">
+                                <rect key="frame" x="40" y="194" width="75" height="75"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="75" id="pM5-5S-lSL"/>
+                                    <constraint firstAttribute="width" constant="75" id="ww6-bk-LqU"/>
+                                </constraints>
+                            </imageView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="idiomas" translatesAutoresizingMaskIntoConstraints="NO" id="Eqa-Sl-Zdq">
+                                <rect key="frame" x="260" y="553" width="75" height="75"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="75" id="cau-Kt-dPd"/>
+                                    <constraint firstAttribute="height" constant="75" id="g3B-f1-QYN"/>
+                                </constraints>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" red="0.047058823530000002" green="0.28627450980000002" blue="0.30980392159999998" alpha="1" colorSpace="calibratedRGB"/>
+                        <constraints>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="I1D-P2-v3w" secondAttribute="bottom" constant="150" id="2Bn-nh-5Kv"/>
+                            <constraint firstItem="I1D-P2-v3w" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="40" id="2Z5-0I-KYY"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="may-qQ-5PN" secondAttribute="trailing" constant="40" id="4MY-Sc-MPv"/>
+                            <constraint firstItem="w3U-ue-u5j" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="GeR-JD-Fop"/>
+                            <constraint firstItem="may-qQ-5PN" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="150" id="RMj-bB-GaE"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="Eqa-Sl-Zdq" secondAttribute="trailing" constant="40" id="Z8d-wE-BeW"/>
+                            <constraint firstItem="3kh-Pq-Jcj" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="150" id="aXd-Ec-cGY"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="xki-IV-VKP" secondAttribute="bottom" constant="40" id="cGR-Tv-Y4b"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="Eqa-Sl-Zdq" secondAttribute="bottom" constant="150" id="dSb-fO-Ok1"/>
+                            <constraint firstItem="3kh-Pq-Jcj" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="40" id="el5-mb-Tvr"/>
+                            <constraint firstItem="w3U-ue-u5j" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="40" id="mMd-ch-9p3"/>
+                            <constraint firstItem="fzp-DE-6G2" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" id="nM3-Aj-KGl"/>
+                            <constraint firstItem="fzp-DE-6G2" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="pWf-Ua-rVH"/>
+                            <constraint firstItem="xki-IV-VKP" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="v9N-ce-y4a"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="52.173913043478265" y="375"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="certificaciones" width="75" height="75"/>
+        <image name="escuela" width="170.66667175292969" height="170.66667175292969"/>
+        <image name="experiencia" width="106" height="106.66666412353516"/>
+        <image name="habilidades" width="75" height="75"/>
+        <image name="idiomas" width="75" height="75"/>
+        <image name="persona" width="85.333335876464844" height="85.333335876464844"/>
+    </resources>
+</document>

@@ -1,0 +1,53 @@
+{
+    "arrayOfObjects": [
+        {
+            "identificador": "Certificación",
+            "valor": "Scrum Fundamentals"
+        },
+        {
+            "identificador": "Institución",
+            "valor": "SCRUMstudy"
+        },
+        {
+            "identificador": "Fecha",
+            "valor": "30 de agosto de 2018"
+        },
+        {
+            "identificador": "Lugar",
+            "valor": "https://www.scrumstudy.com/"
+        },
+        {
+            "identificador": "Curso",
+            "valor": "CCNA 1: Networking Basics"
+        },
+        {
+            "identificador": "Institución",
+            "valor": "Cisco Networking Academy"
+        },
+        {
+            "identificador": "Fecha",
+            "valor": ""
+        },
+        {
+            "identificador": "Lugar",
+            "valor": "Universidad del Valle de México Campus Hispano"
+        },
+        {
+            "identificador": "Curso",
+            "valor": "CCNA 2: Routers and Routing Basics"
+        },
+        {
+            "identificador": "Institución",
+            "valor": "Cisco Networking Academy"
+        },
+        {
+            "identificador": "Fecha",
+            "valor": ""
+        },
+        {
+            "identificador": "Lugar",
+            "valor": "Universidad del Valle de México Campus Hispano"
+        }
+    ]
+}
+

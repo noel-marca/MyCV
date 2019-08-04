@@ -1,0 +1,33 @@
+{
+    "arrayOfObjects": [
+        {
+            "identificador": "Grado Académico",
+            "valor": "Licenciatura"
+        },
+        {
+            "identificador": "Carrera",
+            "valor": "Ingenieria en Sistemas Computacionales"
+        },
+        {
+            "identificador": "Institución",
+            "valor": "Universidad del Valle de México Campus Hispano"
+        },
+        {
+            "identificador": "Lugar",
+            "valor": "Coacalco Estado de México"
+        },
+        {
+            "identificador": "Periodo",
+            "valor": "2005 - 2007"
+        },
+        {
+            "identificador": "Promedio",
+            "valor": "8.28"
+        },
+        {
+            "identificador": "Nivel de Inglés",
+            "valor": "Intermedio"
+        }
+    ]
+}
+

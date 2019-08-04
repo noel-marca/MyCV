@@ -1,0 +1,229 @@
+{
+    "arrayOfObjects": [
+        {
+            "identificador": "Empresa",
+            "valor": "Gonet México S.A."
+        },
+        {
+            "identificador": "Cliente",
+            "valor": "Bancomext"
+        },
+        {
+            "identificador": "Periodo",
+            "valor": "Marzo 2019 - Actual"
+        },
+        {
+            "identificador": "Proyecto",
+            "valor": "Bancomext-PyMex, Bancomext-Fiducia"
+        },
+        {
+            "identificador": "Puesto",
+            "valor": "Desarrollador de Aplicaciones Móviles"
+        },
+        {
+            "identificador": "Actividades",
+            "valor": "Atención de requerimientos del cliente desarrollando las aplicaciones de Pymex y Fiducia (distribución interna), realizando consumos de servicios, vistas, y atención a las observaciones y requerimientos del cliente."
+        },
+        {
+            "identificador": "Herramientas",
+            "valor": "Xcode 9, Xcode 10, Swift 5, Firebase, Push Notificatons, Local Notifications, Android studio, GitLab, Bitbucket, SourceTree, Cocoa Pods, iOS 8, iOS 9, iOS 10, iOS 11, iOS 12, Android 5 – 8, Unit Tests, Debug Navigator, Instruments."
+        },
+        {
+            "identificador": "Empresa",
+            "valor": "Gonet México S.A."
+        },
+        {
+            "identificador": "Cliente",
+            "valor": "BBVA Bancomer"
+        },
+        {
+            "identificador": "Periodo",
+            "valor": "Mayo 2018 – Febrero 2019"
+        },
+        {
+            "identificador": "Proyecto",
+            "valor": "Fabrica de Software"
+        },
+        {
+            "identificador": "Puesto",
+            "valor": "Desarrollador de Aplicaciones Móviles"
+        },
+        {
+            "identificador": "Actividades",
+            "valor": "Atención de requerimientos del cliente en modalidad de fabrica de software, participando en el desarrollo y pruebas para realizar la entrega de los componentes que solicitan se desarrollan, así mismo apoyo en proyectos internos de la empresa."
+        },
+        {
+            "identificador": "Herramientas",
+            "valor": "Xcode 9, Xcode 10, Swift 4, Objective C, Firebase, Push Notificatons, Local Notifications, Android studio, GitLab, Bitbucket, SourceTree, Cocoa Pods, iOS 8, iOS 9, iOS 10, iOS 11, iOS 12, Android 5 – 8, Unit Tests, Debug Navigator, Instruments."
+        },
+        {
+            "identificador": "Empresa",
+            "valor": "Gonet México S.A."
+        },
+        {
+            "identificador": "Cliente",
+            "valor": "BBVA Bancomer"
+        },
+        {
+            "identificador": "Periodo",
+            "valor": "Marzo 2017 – mayo 2018"
+        },
+        {
+            "identificador": "Proyecto",
+            "valor": "Gestor de Eventos - Alertas"
+        },
+        {
+            "identificador": "Puesto",
+            "valor": "Desarrollador de Aplicaciones Móviles"
+        },
+        {
+            "identificador": "Actividades",
+            "valor": "Cambios en Vistas del Centro de mensajes, implementación de recepción de Notificaciones Push para presentar una nueva imagen mas atractiva al cliente tanto en zona privada como en zona publica, realizando el consumo de un servicio para obtener los datos históricos de servidor y poder presentarlos al cliente."
+        },
+        {
+            "identificador": "Herramientas",
+            "valor": "Xcode 9, Xcode 10, Swift 4, Objective C, Firebase, Push Notificatons, Local Notifications, Android studio, GitLab, Bitbucket, SourceTree, Cocoa Pods, iOS 8, iOS 9, iOS 10, iOS 11, iOS 12, Android 5 – 8, Unit Tests, Debug Navigator, Instruments."
+        },
+        {
+            "identificador": "Empresa",
+            "valor": "Grupo Sellcom"
+        },
+        {
+            "identificador": "Cliente",
+            "valor": "Nissan Mexicana"
+        },
+        {
+            "identificador": "Periodo",
+            "valor": "Febrero 2017 - Marzo 2017"
+        },
+        {
+            "identificador": "Proyecto",
+            "valor": "App Móviles"
+        },
+        {
+            "identificador": "Puesto",
+            "valor": "Desarrollador de Aplicaciones Móviles"
+        },
+        {
+            "identificador": "Actividades",
+            "valor": "Adaptaciones al código para implementación de modulo de impresión utilizando cualquier tipo de impresora nativa del dispositivo, modificación a base de datos para almacenamiento y envió de estadísticas para reportes, modificaciones a las vistas de las promociones por vehículo para presentación de términos y condiciones y vigencia de las promociones"
+        },
+        {
+            "identificador": "Herramientas",
+            "valor": "Xcode 8, Firebase, Push Notificatons, Cocoa Pods, Swift 3, Objective C, iOS 8, iOS 9, Unit Tests, Debug Navigator."
+        },
+        {
+            "identificador": "Empresa",
+            "valor": "Grupo Salinas"
+        },
+        {
+            "identificador": "Cliente",
+            "valor": "Banco Azteca"
+        },
+        {
+            "identificador": "Periodo",
+            "valor": "Enero 2016 – enero 2017"
+        },
+        {
+            "identificador": "Proyecto",
+            "valor": "Nueva Originación Centralizada, Nueva Investigación, Cobranza"
+        },
+        {
+            "identificador": "Puesto",
+            "valor": "Desarrollador de Aplicaciones Móviles"
+        },
+        {
+            "identificador": "Actividades",
+            "valor": "Desarrollo de frameworks para los proyectos entre las cuales se encuentran un modulo de OCR tomando foto de un DNI de Perú y obtención de los datos del cliente, framework para validar el estado de la red de los dispositivos, implementación de Frameworks para huella digital, desarrollo de módulos de la investigación de clientes, entre otros."
+        },
+        {
+            "identificador": "Herramientas",
+            "valor": "Xcode 6.4, Xcode 7, TesseractOCR Frameworks, SQLite, UareU Framework, Swift 2, Objective C, iOS 8, iOS 9, Unit Tests, Debug Navigator."
+        },
+        {
+            "identificador": "Empresa",
+            "valor": "Indra Sistemas México S.A. de C.V."
+        },
+        {
+            "identificador": "Cliente",
+            "valor": "BBVA Bancomer"
+        },
+        {
+            "identificador": "Periodo",
+            "valor": "septiembre 2012 – noviembre 2015"
+        },
+        {
+            "identificador": "Proyecto",
+            "valor": "Proyectos Cerrados."
+        },
+        {
+            "identificador": "Puesto",
+            "valor": "Ingeniero de sistemas"
+        },
+        {
+            "identificador": "Actividades",
+            "valor": "Desarrollo de Rutinas, programas , procesos, disparadores en Cobol para diferentes proyectos cerrados en la áreas de Prestamos, Riesgos, Cierre y Conciliación, Medios de Pago, Practica de Ventas en Bancomer."
+        },
+        {
+            "identificador": "Herramientas",
+            "valor": "TN3270, Cobol, Cics, JCL, DB2"
+        },
+        {
+            "identificador": "Empresa",
+            "valor": "Hildebrando S.A. de C.V"
+        },
+        {
+            "identificador": "Cliente",
+            "valor": "BBVA Bancomer"
+        },
+        {
+            "identificador": "Periodo",
+            "valor": "Agosto 2011 – Agosto 2012"
+        },
+        {
+            "identificador": "Proyecto",
+            "valor": "Medios de Pago Disolución"
+        },
+        {
+            "identificador": "Puesto",
+            "valor": "Analista de sistemas"
+        },
+        {
+            "identificador": "Actividades",
+            "valor": "Atención de diferentes requerimientos pos parte del cliente, analizando, programando, realizando pruebas, soporte a la instalación y realizando la documentación."
+        },
+        {
+            "identificador": "Herramientas",
+            "valor": "TN3270, Cobol, Cics, JCL, DB2"
+        },
+        {
+            "identificador": "Empresa",
+            "valor": "Hosting Business Latinoamérica"
+        },
+        {
+            "identificador": "Cliente",
+            "valor": "Banco azteca"
+        },
+        {
+            "identificador": "Periodo",
+            "valor": "noviembre 2010 – Agosto 2011"
+        },
+        {
+            "identificador": "Proyecto",
+            "valor": "Préstamos Alnova"
+        },
+        {
+            "identificador": "Puesto",
+            "valor": "Becario de sistemas"
+        },
+        {
+            "identificador": "Actividades",
+            "valor": "Atención de diferentes requerimientos pos parte del cliente, analizando, programando, realizando pruebas, soporte a la instalación y realizando la documentación."
+        },
+        {
+            "identificador": "Herramientas",
+            "valor": "Alnova, Cobol, Cics, JCL, DB2"
+        }
+    ]
+}
+
